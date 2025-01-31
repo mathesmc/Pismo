@@ -9,6 +9,10 @@ Este é um sistema bancário que gerencia contas e transações financeiras. O s
      make run-local
 ````
 
+## Documentacao da Api 
+  Apos subir o projeto com os passos a cima, basta acessar o endpoint abaixo
+para conferir a documentacao mais especifica dos endpoints
+- **endpoint**: `/docs`
 
 ## Componentes Principais
 
