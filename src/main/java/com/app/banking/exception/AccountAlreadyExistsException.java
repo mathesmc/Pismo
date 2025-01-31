@@ -1,0 +1,7 @@
+package com.app.banking.exception;
+
+public class AccountAlreadyExistsException extends RuntimeException {
+    public AccountAlreadyExistsException(String message) {
+        super(message);
+    }
+}
